@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Holiday Calendar</string>
+    <string name="holidayLink">Link to holiday</string>
+    <string name="hyperlink">https://www.officeholidays.com/countries/argentina/2019</string>
+</resources>
