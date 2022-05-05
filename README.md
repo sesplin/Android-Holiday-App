@@ -15,3 +15,4 @@ An android application that will inform users who desire to know when and what h
 ## Technologies
 - Kotlin
 - Holiday API
+![Screenshot_20220504-143243_Holiday Calendar](https://user-images.githubusercontent.com/70726533/166852541-bcf64b91-d265-4b64-9860-1c8c03831f38.jpg)
